@@ -1,0 +1,10 @@
+# Site settings
+title: Bryant Huang
+description: > # this means to ignore newlines until "baseurl:"
+  Bryant Huang's personal blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.bry.cc" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge

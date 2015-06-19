@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "New Site"
+date:   2015-06-19 08:46:22
+categories: announcements
+---
+I've updated my personal blog to now use [Jekyll](http://jekyllrb.com/) and be hosted at [GitHub Pages](https://pages.github.com/)!
